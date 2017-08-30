@@ -87,4 +87,5 @@
 
 ## 2009
 1. [Nicholas Zakas: **Scalable JavaScript Application Architecture**](https://www.youtube.com/watch?v=vXjVFPosQHw) [52:22]
+https://es.slideshare.net/nzakas/scalable-javascript-application-architecture/2-Whos_this_guy_Extech_lead
 2. [Douglas Crockford: **JavaScript: The Good Parts**](https://www.youtube.com/watch?v=hQVTIJBZook) [1:03:47]
